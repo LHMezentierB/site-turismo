@@ -1,0 +1,33 @@
+body{
+    background-color: aquamarine;
+    font-family: Arial;
+    margin: 0px;
+}
+header{
+    width:100%;
+    background-color: chartreuse;
+    color:black;
+    text-align: center;
+    padding:30px;
+}
+main{
+    padding:30px;
+}
+h2{
+    color:green;
+    font-size:3em;
+}
+footer{
+    width:100%;
+    background-color:chartreuse;
+    text-align:center;
+    color:black;
+    padding:30px;
+}
+ul{
+    padding-left: 20px;
+}
+img{
+    border-radius: 5%;
+    margin:20px;
+}
